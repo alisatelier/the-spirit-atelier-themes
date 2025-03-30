@@ -1,0 +1,21 @@
+{
+  "name": "the-spirit-atelier",
+  "displayName": "The Spirit Atelier",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Spirit Atelier Theme",
+        "uiTheme": "hc-light",
+        "path": "./themes/The Spirit Atelier Theme-color-theme.json"
+      }
+    ]
+  }
+}
