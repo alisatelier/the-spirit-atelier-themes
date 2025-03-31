@@ -17,5 +17,11 @@
         "path": "./themes/The Spirit Atelier Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/alisatelier/the-spirit-atelier-themes.git"
 }
+}
+
+
